@@ -50,19 +50,25 @@ Hang out and observe or jump right in and say 'hi'. Be sure to read the [officia
 Learn about Zoia at the [Code4Lib Wiki page on Zoia](http://wiki.code4lib.org/Zoia_or_the_Code4Lib_IRC_bot).
 
 You'll see lots of messages about users joining and leaving the channel. These can take up a lot of space, so you may want to ignore them.
+
 `/ignore -channels #channel * JOINS PARTS QUITS NICKS`
+
 `/save`
 
 Step 6: Leave
 -------------
 `/part` will make you leave the channel
+
 `/quit` will close the client 
 
 Step 7: Return
 --------------
 Returning after you've closed the connection. 
+
 `/connect chat.freenode.net`
+
 You'll need to tell the NickServ who you are
+
 `/msg NickServ IDENTIFY YourPasswordHere`
 
 This should get you started. Again, be sure to read the [official code4lib IRC page](http://code4lib.org/irc/). It has links to everything you'll need to know.
