@@ -50,10 +50,8 @@ Hang out and observe or jump right in and say 'hi'. Be sure to read the [officia
 Learn about Zoia at the [Code4Lib Wiki page on Zoia](http://wiki.code4lib.org/Zoia_or_the_Code4Lib_IRC_bot).
 
 You'll see lots of messages about users joining and leaving the channel. These can take up a lot of space, so you may want to ignore them.
-```/ignore * joins
-   /ignore * parts
-   /ignore * quits
-   /save```
+`/ignore -channels #channel * JOINS PARTS QUITS NICKS`
+`/save`
 
 Step 6: Leave
 -------------
