@@ -33,7 +33,7 @@ Pick a nick. This is how you will appear to others.
 Do you want to save your nick and use it again in the future? Of course you do! You'll need to register it. 
 `/msg nickserv register YourPasswordHere you@example.com`
 
-	*Note: Never ever ever use the same password for IRC that you use elsewhere. IRC traffic is plaintext. If your client offers SSL, use it! For irssi, see [Code Portland's irssi, ssl, and freenode](https://codeportland.com/irssi/).
+*Note: Never ever ever use the same password for IRC that you use elsewhere. IRC traffic is plaintext. If your client offers SSL, use it! For irssi, see [Code Portland's irssi, ssl, and freenode](https://codeportland.com/irssi/).
 
 Next, go to the email address you used and look for a message from <noreply.support@freenode.net>. Check your spam folder. Get the text from the message and paste it into the client. 
 `/msg NickServ VERIFY REGISTER your_nick ............`
